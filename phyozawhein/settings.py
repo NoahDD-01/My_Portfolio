@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'PHyoZAwHEIn.urls'
+ROOT_URLCONF = 'phyozawhein.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'PHyoZAwHEIn.wsgi.application'
+WSGI_APPLICATION = 'phyozawhein.wsgi.application'
 
 
 # Database
