@@ -48,7 +48,7 @@ body, html {
 }
 
 body {
-  background: #dddddd;
+  background: #211e1e;
   color: #4c4d4d;
   font-family: "Poppins", sans-serif;
 }
@@ -542,24 +542,24 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Background light */
 .bg-light-1 {
-  background-color: #e9ecef !important;
+  background-color: #4a4f55 !important;
 }
 
 .bg-light-2 {
-  background-color: #dee2e6 !important;
+  background-color: #6f7478 !important;
 }
 
 .bg-light-3 {
-  background-color: #ced4da !important;
+  background-color: #70757a !important;
 }
 
 .bg-light-4 {
-  background-color: #adb5bd !important;
+  background-color: #6e7378 !important;
 }
 
 /* Background Dark */
 .bg-dark {
-  background-color: #8eb1e1 !important;
+  background-color: #171818 !important;
 }
 
 .bg-dark-1 {
